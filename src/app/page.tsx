@@ -1,4 +1,6 @@
 export default function Home() {
+  const isNumber: number = "hello";
+
   return (
     <main>
       <h1>NextJS Starter kit</h1>
