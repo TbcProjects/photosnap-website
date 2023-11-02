@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main>
       <h1>NextJS Starter kit</h1>
-      <h1>Test...</h
+      <h1>Test...</h1>
     </main>
   );
 }
