@@ -1,5 +1,10 @@
 import { defineConfig } from "@pandacss/dev";
 
+import { colors } from "@lib/theme/colors";
+import { fonts } from "@lib/theme/fonts";
+import { layerStyles } from "@lib/theme/layerStyles";
+import { textStyles } from "@lib/theme/textStyles";
+
 export default defineConfig({
   // Whether to use css reset
   preflight: true,
@@ -12,7 +17,14 @@ export default defineConfig({
 
   // Useful for theme customization
   theme: {
-    extend: {},
+    tokens: {
+      colors,
+      fonts,
+    },
+    extend: {
+      layerStyles,
+      textStyles,
+    },
   },
 
   // The output directory for your css system
