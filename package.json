@@ -9,7 +9,9 @@
     "lint": "next lint",
     "prepare": "husky install",
     "format": "prettier --write .",
-    "panda-prepare": "panda codegen"
+    "panda-prepare": "panda codegen",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "dependencies": {
     "next": "14.0.0",
@@ -18,6 +20,14 @@
   },
   "devDependencies": {
     "@pandacss/dev": "^0.17.5",
+    "@storybook/addon-essentials": "^7.5.2",
+    "@storybook/addon-interactions": "^7.5.2",
+    "@storybook/addon-links": "^7.5.2",
+    "@storybook/addon-onboarding": "^1.0.8",
+    "@storybook/blocks": "^7.5.2",
+    "@storybook/nextjs": "^7.5.2",
+    "@storybook/react": "^7.5.2",
+    "@storybook/testing-library": "^0.2.2",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
@@ -27,9 +37,11 @@
     "eslint-config-next": "^14.0.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-storybook": "^0.6.15",
     "husky": "^8.0.0",
     "lint-staged": "^13.2.3",
     "prettier": "3.0.3",
+    "storybook": "^7.5.2",
     "typescript": "^5"
   },
   "lint-staged": {
