@@ -1,8 +1,9 @@
+import TextComponent from "@components/TextComponent";
+
 export default function Home() {
   return (
     <main>
-      <h1>NextJS Starter kit</h1>
-      <h1>Test...</h1>
+      <TextComponent>HELLO</TextComponent>
     </main>
   );
 }
