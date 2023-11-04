@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "./globals.css";
+import "../lib/theme/globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+
+import { css } from "styled-system/css";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -18,6 +20,11 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         {/* SiteHeader */}
+        <h1
+          className={css({ color: "red", fontSize: "2xl", fontWeight: "bold" })}
+        >
+          Panda ready...
+        </h1>
         {children}
         {/* SiteFooter */}
       </body>
