@@ -9,5 +9,5 @@
   "plugins": ["@typescript-eslint"],
   "parser": "@typescript-eslint/parser",
   "root": true,
-  "ignorePatterns": ["styled-system"]
+  "ignorePatterns": ["styled-system", "!.storybook"]
 }

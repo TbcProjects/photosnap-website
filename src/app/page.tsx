@@ -1,9 +1,9 @@
-import TextComponent from "@components/TextComponent";
+import Playground from "@components/Playground";
 
 export default function Home() {
   return (
     <main>
-      <TextComponent>HELLO</TextComponent>
+      <Playground></Playground>
     </main>
   );
 }
