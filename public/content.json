@@ -1,0 +1,384 @@
+{
+  "homepage": {
+    "seo": {
+      "title": "Page name..",
+      "description": "This is a description..."
+    },
+    "sections": {
+      "image_with_text": [
+        {
+          "heading": "",
+          "sub_text_": "",
+          "button": {
+            "label": "",
+            "link": ""
+          }
+        },
+        {
+          "heading": "",
+          "sub_text_": "",
+          "button": {
+            "label": "",
+            "link": ""
+          }
+        },
+        {
+          "heading": "",
+          "sub_text_": "",
+          "button": {
+            "label": "",
+            "link": ""
+          }
+        }
+      ],
+      "image_panel": [
+        {
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        }
+      ],
+      "features_panel": [
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        }
+      ]
+    }
+  },
+  "stories": {
+    "seo": {
+      "title": "Page name..",
+      "description": "This is a description..."
+    },
+    "sections": {
+      "featured_story": {
+        "overline_heading": "",
+        "heading": "",
+        "date": "",
+        "author": "",
+        "body": ""
+      },
+      "image_grid": [
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        },
+        {
+          "date": "",
+          "image": {
+            "url": "",
+            "alt": ""
+          },
+          "title": "",
+          "author": ""
+        }
+      ]
+    }
+  },
+  "features": {
+    "seo": {
+      "title": "Page name..",
+      "description": "This is a description..."
+    },
+    "sections": {
+      "image_with_text": {
+        "heading": "",
+        "sub_text_": "",
+        "button": {
+          "label": "",
+          "link": ""
+        }
+      },
+      "features_panel": [
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "body": ""
+        }
+      ]
+    }
+  },
+  "pricing": {
+    "seo": {
+      "title": "Page name..",
+      "description": "This is a description..."
+    },
+    "sections": {
+      "image_with_text": {
+        "heading": "",
+        "sub_text_": "",
+        "button": {
+          "label": "",
+          "link": ""
+        }
+      },
+      "pricing_plan": [
+        {
+          "title": "",
+          "description": "",
+          "price": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "price": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "price": ""
+        }
+      ],
+      "comparison_table": [
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        },
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        },
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        },
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        },
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        },
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        },
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        },
+        {
+          "plan": "",
+          "basic": false,
+          "pro": false,
+          "business": false
+        }
+      ]
+    }
+  },
+  "shared": {
+    "promotional_panel": {
+      "title": ""
+    }
+  }
+}
