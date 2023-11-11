@@ -1,6 +1,8 @@
 import { defineTokens } from "@pandacss/dev";
 
 export const colors = defineTokens.colors({
-  // format: name: {value: "#hex"}
-  primary: { value: "blue" },
+  pure_black: { value: "#000000" },
+  light_grey: { value: "#DFDFDF" },
+  pure_white: { value: "#FFFFFF" },
+  main_accent: { value: "" },
 });
