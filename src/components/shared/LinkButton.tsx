@@ -18,7 +18,11 @@ const Button = ({ href, prefetch, visual, type, children }: ButtonProps) => {
           <button className={button({ visual, type })}>
             <div className={flex({ justify: "space-between" })}>
               {children}
-              <DirectionalArrow />
+              <DirectionalArrow
+                color={visual === "transparent_dark" ? "#FFF" : "#000"}
+                height="14"
+                width="43"
+              />
             </div>
           </button>
         );
