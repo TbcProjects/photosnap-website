@@ -40,4 +40,12 @@ export const textStyles: TextStyles = defineTextStyles({
       lineHeight: "25px",
     },
   },
+  button: {
+    value: {
+      fontWeight: "700",
+      fontSize: "0.75rem",
+      lineHeight: "15.62px",
+      letterSpacing: "2px",
+    },
+  },
 });
