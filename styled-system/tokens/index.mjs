@@ -1,7 +1,23 @@
 const tokens = {
-  "colors.primary": {
-    "value": "blue",
-    "variable": "var(--colors-primary)"
+  "colors.pure_black": {
+    "value": "#000000",
+    "variable": "var(--colors-pure_black)"
+  },
+  "colors.light_grey": {
+    "value": "#DFDFDF",
+    "variable": "var(--colors-light_grey)"
+  },
+  "colors.pure_white": {
+    "value": "#FFFFFF",
+    "variable": "var(--colors-pure_white)"
+  },
+  "fonts.heading": {
+    "value": "var(--font-dm-sans)",
+    "variable": "var(--fonts-heading)"
+  },
+  "fonts.body": {
+    "value": "var(--font-dm-sans), sans-serif",
+    "variable": "var(--fonts-body)"
   },
   "breakpoints.sm": {
     "value": "640px",
