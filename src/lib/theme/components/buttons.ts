@@ -22,7 +22,15 @@ export const button = cva({
     visual: {
       dark: { bg: "pure_black", color: "pure_white" },
       light: { bg: "pure_white", color: "pure_black" },
-      transparent_dark: { bg: "transparent", color: "pure_white" },
+      transparent_dark: {
+        bg: "transparent",
+        color: "pure_white",
+        _hover: {
+          bg: "transparent",
+          color: "pure_white",
+          textDecoration: "underline",
+        },
+      },
       transparent_light: {
         bg: "transparent",
         color: "pure_black",
