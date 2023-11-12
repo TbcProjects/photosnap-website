@@ -1,4 +1,64 @@
 {
+  "layout": {
+    "site_header": {
+      "navigation": [
+        {
+          "stories": {
+            "link": "",
+            "label": "Stories"
+          }
+        },
+        {
+          "features": {
+            "link": "",
+            "label": "Features"
+          }
+        },
+        {
+          "pricing": {
+            "link": "",
+            "label": "Pricing"
+          }
+        }
+      ]
+    },
+    "site_footer": {
+      "navigation": [
+        {
+          "home": {
+            "link": "/",
+            "label": "Home"
+          }
+        },
+        {
+          "stories": {
+            "link": "",
+            "label": "Stories"
+          }
+        },
+        {
+          "features": {
+            "link": "",
+            "label": "Features"
+          }
+        },
+        {
+          "pricing": {
+            "link": "",
+            "label": "Pricing"
+          }
+        }
+      ],
+      "colophon": "",
+      "social_links": {
+        "facebook": {},
+        "youtube": {},
+        "twitter": {},
+        "pinterest": {},
+        "instagram": {}
+      }
+    }
+  },
   "homepage": {
     "seo": {
       "title": "Page name..",
@@ -7,26 +67,26 @@
     "sections": {
       "image_with_text": [
         {
-          "heading": "",
-          "sub_text_": "",
+          "heading": "Create and share your photo stories. ",
+          "sub_text_": "Photosnap is a platform for photographers and visual storytellers. We make it easy to share photos, tell stories and connect with others.",
           "button": {
-            "label": "",
+            "label": "GET AN INVITE",
             "link": ""
           }
         },
         {
-          "heading": "",
-          "sub_text_": "",
+          "heading": "BEAUTIFUL STORIES EVERY TIME",
+          "sub_text_": "We provide design templates to ensure your stories look terrific. Easily add photos, text, embed maps and media from other networks. Then share your story with everyone.",
           "button": {
-            "label": "",
+            "label": "VIEW THE STORIES",
             "link": ""
           }
         },
         {
-          "heading": "",
-          "sub_text_": "",
+          "heading": "DESIGNED FOR EVERYONE",
+          "sub_text_": "Photosnap can help you create stories that resonate with your audience.  Our tool is designed for photographers of all levels, brands, businesses you name it. ",
           "button": {
-            "label": "",
+            "label": "VIEW THE STORIES",
             "link": ""
           }
         }
@@ -37,49 +97,49 @@
             "url": "",
             "alt": ""
           },
-          "title": "",
-          "author": ""
+          "title": "The Mountains",
+          "author": "by John Appleseed"
         },
         {
           "image": {
             "url": "",
             "alt": ""
           },
-          "title": "",
-          "author": ""
+          "title": "Sunset Cityscapes",
+          "author": "by Benjamin Cruz"
         },
         {
           "image": {
             "url": "",
             "alt": ""
           },
-          "title": "",
-          "author": ""
+          "title": "18 Days Voyage",
+          "author": "by Alexei Borodin"
         },
         {
           "image": {
             "url": "",
             "alt": ""
           },
-          "title": "",
-          "author": ""
+          "title": "Architecturals",
+          "author": "by Samantha Brooke"
         }
       ],
       "features_panel": [
         {
           "icon": "",
-          "title": "",
-          "body": ""
+          "title": "100% Responsive",
+          "body": "No matter which the device you’re on, our site is fully responsive and stories look beautiful on any screen."
         },
         {
           "icon": "",
-          "title": "",
-          "body": ""
+          "title": "No Photo Upload Limit",
+          "body": "Our tool has no limits on uploads or bandwidth. Freely upload in bulk and share all of your stories in one go."
         },
         {
           "icon": "",
-          "title": "",
-          "body": ""
+          "title": "Available to Embed",
+          "body": "Embed Tweets, Facebook posts, Instagram media, Vimeo or YouTube videos, Google Maps, and more. "
         }
       ]
     }
