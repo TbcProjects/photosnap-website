@@ -1,5 +1,11 @@
 import "../../../public/assets/shared/desktop/arrow.svg";
 
+/**
+ *
+ * @todo
+ * - make width/height a prop
+ */
+
 function DirectionalArrow() {
   return (
     <div>
