@@ -20,7 +20,11 @@
             "label": "Pricing"
           }
         }
-      ]
+      ],
+      "call_to_action": {
+        "btn_label": "GET AN INVITE",
+        "btn_url": "/"
+      }
     },
     "site_footer": {
       "navigation": [
